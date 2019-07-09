@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--QCafe save file. Do not modify this file's content.-->
+<root>
+    <coffee product-name="Espresso" customer-name="Tommaso" price="2" discount-amount="10" take-away="1" size="M" sweetener-type="Sugar" variety="Arabica"/>
+    <tea product-name="Jasmine Green" customer-name="Marco" price="3.7" size="L" sweetener-type="Sweetener"/>
+    <sweet product-name="Doughnut" customer-name="Tommaso" price="2.8" take-away="1" flavour="Chocolate"/>
+    <sandwich product-name="Sandwich" customer-name="Tommaso" price="4.5" take-away="1" heat-product="1" bread="Whole grain" main-ingredient="Aubergines" sauce="Mustard" cheese="1" lettuce="1"/>
+    <coffee_milk product-name="Caffe Latte" customer-name="Alessandro" price="2.7" take-away="1" size="M" sweetener-type="None" variety="Robusta" whipped-cream="1"/>
+    <tea product-name="English Breakfast" customer-name="Lorenzo" price="1.5" discount-amount="5" take-away="1" size="S" sweetener-type="None"/>
+    <coffee product-name="Cold Brew" customer-name="Pietro" price="3" size="M" sweetener-type="None" variety="Arabica"/>
+</root>

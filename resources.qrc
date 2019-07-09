@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/info-circle.png</file>
+        <file>icons/box-open.png</file>
+        <file>icons/coffee.png</file>
+        <file>icons/save.png</file>
+        <file>icons/window-close.png</file>
+        <file>images/Americano.jpg</file>
+        <file>images/Black.jpg</file>
+        <file>images/CaffeLatte.jpg</file>
+        <file>images/Cake.jpg</file>
+        <file>images/Cappuccino.jpg</file>
+        <file>images/ColdBrew.jpg</file>
+        <file>images/Doughnut.jpg</file>
+        <file>images/Espresso.jpg</file>
+        <file>images/FrenchPress.jpg</file>
+        <file>images/Lungo.jpg</file>
+        <file>images/Macchiato.jpg</file>
+        <file>images/Muffin.jpg</file>
+        <file>images/Sandwich.jpg</file>
+        <file>images/Tea.jpg</file>
+    </qresource>
+</RCC>
